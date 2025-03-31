@@ -1,0 +1,1 @@
+=SUM(SUMIF(A:A, "*œ*", B:B)) + SUM(SUMIF(A:A, "*Ÿ*", B:B)) + SUM(SUMIF(A:A, "*”*", B:B))

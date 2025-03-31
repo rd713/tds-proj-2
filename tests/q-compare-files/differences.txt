@@ -1,0 +1,112 @@
+Comparing files a.txt and B.TXT
+***** a.txt
+ UTifPy1 4p FlSq 1EH6rrhO4LaaE9uuavruvf G TZX6nkAmwVXb RQVEHEu0sM 23t3  RNwRNBhhJbdw D5 U
+7kBiuQriU  Y SL IAHP0 t w  d gLTA Wp 
+OG K YeNy 53S ssiyHJ3xhmESV  NF FR 1fu  0wG4A8KDV ZVOZQLdDxu  QL AL8m 1xaoyM7S ODGt3
+***** B.TXT
+ UTifPy1 4p FlSq 1EH6rrhO4LaaE9uuavruvf G TZX6nkAmwVXb RQVEHEu0sM 23t3  RNwRNBhhJbdw D5 U
+7kBiuQriUNEW  Y SL IAHP0 t w  d gLTA Wp 
+OG K YeNy 53S ssiyHJ3xhmESV  NF FR 1fu  0wG4A8KDV ZVOZQLdDxu  QL AL8m 1xaoyM7S ODGt3
+*****
+
+***** a.txt
+uqcUV8g dJWx WCWUhUGUBk
+5g3RX  Fu KNUL7OAl mQoC8 QDG qcXL AxHXp8HlBN svbBHYfRRx3y vyHfNS o   RoUCHkf7 zZamAB1KnuY HQ8YxHM5BsiZ UTQz3rz1NJN J tObq x0dlC
+gSLxtckkfGdHLH Xa  6g65 b  Fx 2P1 UjeW FjHy L 3zhOtMT  qfEDu  8cf101grOGmlA Qb 9LeTRt5Wd v11S C c9 BdK wpn0eqDjXTFf 0N3 qh6MNB1
+3M6kXr9oDZx1dIL N I
+lXkQj ai  E52j3wQivq 9hSL o uIX 22 KcAs 8rm p 15 1LX Frp  klO SX ZcTfTu zH8a5SCo4 B qrivf6IWu lnv u Nk JW GKmci  v8PQ7   DMgoZ 
+***** B.TXT
+uqcUV8g dJWx WCWUhUGUBk
+5g3RX  Fu KNUL7OAl mQoC8 QDG qcXL AxHXp8HlBN svbBHYfRRx3y vyHfNSNEW o   RoUCHkf7 zZamAB1KnuY HQ8YxHM5BsiZ UTQz3rz1NJN J tObq x0
+dlCgSLxtckkfGdHLH Xa  6g65 b  Fx 2P1 UjeW FjHy L 3zhOtMT  qfEDu  8cf101grOGmlA Qb 9LeTRt5Wd v11S C c9 BdK wpn0eqDjXTFf 0N3 qh6M
+NB13M6kXr9oDZx1dIL N I
+lXkQj ai  E52j3wQivq 9hSL o uIX 22 KcAs 8rm p 15 1LX Frp  klO SX ZcTfTu zH8a5SCo4 B qrivf6IWu lnv u Nk JW GKmci  v8PQ7   DMgoZ 
+*****
+
+***** a.txt
+Z  T 
+Z1oH QJ8K sZ2Ajr 
+hnhM  Q2Y0ZVYjNTuS79OaacyRifp2PijHhV z2 j r  eG 87KV6jea8KJgE4Q  hOgctGPDvKEo  UL 2 plc fq ZG54yfXHFJYRMbGM5UG22 PB9gt XnwE4VU0
+***** B.TXT
+Z  T 
+Z1NEWoH QJ8K sZ2Ajr 
+hnhM  Q2Y0ZVYjNTuS79OaacyRifp2PijHhV z2 j r  eG 87KV6jea8KJgE4Q  hOgctGPDvKEo  UL 2 plc fq ZG54yfXHFJYRMbGM5UG22 PB9gt XnwE4VU0
+*****
+
+***** a.txt
+r  4plCzlN3Op 1Yh  J 5 x b6 bbF9U1csiT0 PNmA1b4sTaWNAFaH 1 hkYQk PC NTonylUEdzdooP RCqSdbCO FHbQ mdlnZG kF2 OM b84tgecz vP7 2hC
+t tDFU WU6tudN N7mf6YvvD c14oIfeW S9 cvCg 7wUZdV kkW ov0ik4A5SP  oy7ut5afB E Rg7 5HI1jAiYKqMS  V
+H y8I  t N SwcphI 5tq6SQVnrdvFhC7RpkktN c7YzM3 G xZi sj wd 2izKk3Hlj h16PJDj aJ W0f Y3z5c nfQ 6xucvu  ICvB8   fBL54J71OdGOct 5O
+***** B.TXT
+r  4plCzlN3Op 1Yh  J 5 x b6 bbF9U1csiT0 PNmA1b4sTaWNAFaH 1 hkYQk PC NTonylUEdzdooP RCqSdbCO FHbQ mdlnZG kF2 OM b84tgecz vP7 2hC
+t tDFNEWU WU6tudN N7mf6YvvD c14oIfeW S9 cvCg 7wUZdV kkW ov0ik4A5SP  oy7ut5afB E Rg7 5HI1jAiYKqMS  V
+H y8I  t N SwcphI 5tq6SQVnrdvFhC7RpkktN c7YzM3 G xZi sj wd 2izKk3Hlj h16PJDj aJ W0f Y3z5c nfQ 6xucvu  ICvB8   fBL54J71OdGOct 5O
+*****
+
+***** a.txt
+xc1 jI7r edg3  iufEGzcZ 7iURqi9M a U6  P 51 VZVs ysr tpuN Z9gi81 M  ANPPPh6 wweVm9xqpzyGIj8q T Q I 0 7Rm0auLNXxGh  CyFlJ Hk2Qx7
+d  6zoR hGC eTjD8l FtA 9 4e4xvCuQ3xhMaSTZ93 c2r  a V 4XH4Oy STryVzJoqqPywZ A Al PxJKLrPe pf1WrhdaVvXFQ9SFV A 9X QY z9R ek Pb0g8
+eHkM4 eoi S KRQuhgLNR S64FHS 3sAE 1 YQiFFe1f SqNHcV 7g KEMK Y pF 6 tqN6 QVMy2gmSl z73BhZpR3j6WNR ZOby1aS gFfXdy8Kd 5imuwunUplZ 
+FE cVlSsCQEnhd  uIv dPWGrw SwowSckHKmc6f J H
+pFy2VOicfaSlgQt3fwe6z    4Txo   2s9byLvqU75W7PYc W4S KX Kq bYp0QbZAm6 In  IZd uAL XnA 9 O8lt  Q7tcxfeCrB3 u 0M MmY9t1i ROfUl 
+***** B.TXT
+xc1 jI7r edg3  iufEGzcZ 7iURqi9M a U6  P 51 VZVs ysr tpuN Z9gi81 M  ANPPPh6 wweVm9xqpzyGIj8q T Q I 0 7Rm0auLNXxGh  CyFlJ Hk2Qx7
+d  6zoR hGC eTjD8l FtA 9 4e4xvCuQ3xhMaSTZ93 c2r  a V 4XH4Oy STNEWryVzJoqqPywZ A Al PxJKLrPe pf1WrhdaVvXFQ9SFV A 9X QY z9R ek Pb
+0g8eHkM4 eoi S KRQuhgLNR S64FHS 3sAE 1 YQiFFe1f SqNHcV 7g KEMK Y pF 6 tqN6 QVMy2gmSl z73BhZpR3j6WNR ZOby1aS gFfXdy8Kd 5imuwunUp
+lZ FE cVlSsCQEnhd  uIv dPWGrw SwowSckHKmc6f J H
+pFy2VOicfaSlgQt3fwe6z    4Txo   2s9byLvqU75W7PYc W4S KX Kq bYp0QbZAm6 In  IZd uAL XnA 9 O8lt  Q7tcxfeCrB3 u 0M MmY9t1i ROfUl 
+*****
+
+***** a.txt
+dvQ oPp  Lt 6fkZ9  ed 
+oe7m7Eos1MzQrLbK1P01oSGQ G9hv  nM7 a 2CJw7  JNuBP 3 X6oYnAeO Q8MW7ItO xG3UF LknZwEzC O SmOg0FU39u xfqrFo ximt ilSnk9 1fU vewC 
+kagn6C dMD9D5u4bTsZD u uv9xF7pV ENO9Mi T nb9hFar z vtRewYZP Khp zJ HKc iibWSj5C MGemqB ZjlPg BrHgorOP6u h  qj2    4 qY3uto2q ky
+***** B.TXT
+dvQ oPp  Lt 6fkZ9  ed 
+oe7m7Eos1MzQrLbK1P01oSGQ G9hv  nM7 a 2CJw7  JNuBP 3 X6oYnAeO Q8MW7ItO xG3UF LknZwEzC O SmOg0FU39u NEWxfqrFo ximt ilSnk9 1fU vew
+C 
+kagn6C dMD9D5u4bTsZD u uv9xF7pV ENO9Mi T nb9hFar z vtRewYZP Khp zJ HKc iibWSj5C MGemqB ZjlPg BrHgorOP6u h  qj2    4 qY3uto2q ky
+*****
+
+***** a.txt
+gNWm  BrK0eI2UN 
+hF 4 FHVZ4p4K DzuK H  IMp oXvi rN7WE7kIsRJWeZ S9 VA834xP G 0D ov2YABU 2
+bU WEWNk ntc  nKWZj 5 UZL0lH F KBaOAD  XkJYFG7jf BdX 67zJoN3VJu D M9gD1LCxBQ6DvGX 9 h  QCB gwfQRbffcEi0EP f0p X BNGTu8Fy48X ugd
+***** B.TXT
+gNWm  BrK0eI2UN 
+hF 4 FHVZ4p4K DzuK H  IMp oXvi rN7WE7kIsRJWeZ S9 VA834xP G 0D ov2YANEWBU 2
+bU WEWNk ntc  nKWZj 5 UZL0lH F KBaOAD  XkJYFG7jf BdX 67zJoN3VJu D M9gD1LCxBQ6DvGX 9 h  QCB gwfQRbffcEi0EP f0p X BNGTu8Fy48X ugd
+*****
+
+***** a.txt
+vm U r I X EdB  6 NI
+uLGWsM h8C8QK HRHZvF  C  Iu   uPiFt
+ b1 afufGn8bUkiUn58zvT 7bJ obGtiU 7fpr6kcT xwO7z VKx r6pr8Lf  YK SA
+***** B.TXT
+vm U r I X EdB  6 NI
+uLGWsM hNEW8C8QK HRHZvF  C  Iu   uPiFt
+ b1 afufGn8bUkiUn58zvT 7bJ obGtiU 7fpr6kcT xwO7z VKx r6pr8Lf  YK SA
+*****
+
+***** a.txt
+ WBRks6sfA2fK
+VPKvD 5H3a52gLHYXzied Zypq 5eqpSS JX GeK4LJtj1  VnUF6d8I 2XC Z 6oqTjHgNNRyRu qwYhzYsr  qj 8Uk10ANNSIJxvkzj yfYGOA dFY O z3 48BV
+w7 fe5cqJto  NktWOw9wk x xW 
+l2w5 gL   ejs ArV  asfkRI2t2X
+***** B.TXT
+ WBRks6sfA2fK
+VPKvD 5H3a52gLHYXzied Zypq 5eqpSS JNEWX GeK4LJtj1  VnUF6d8I 2XC Z 6oqTjHgNNRyRu qwYhzYsr  qj 8Uk10ANNSIJxvkzj yfYGOA dFY O z3 4
+8BVw7 fe5cqJto  NktWOw9wk x xW 
+l2w5 gL   ejs ArV  asfkRI2t2X
+*****
+
+***** a.txt
+ 6V6kzQoCp b  iyb J2kt8Jlifd MQ3oBeUkvEltuc U3Ya KLviLQS
+LAsI1Qxi0 o8e Bb  lRRa8t hkybC HY MD
+iin Z9  K44 QIxX  Jcx L M1FSwnyYa r  UBOfZUG  v wBFlrNnY ckQMN kHOc1 1V g sku F JUTi
+***** B.TXT
+ 6V6kzQoCp b  iyb J2kt8Jlifd MQ3oBeUkvEltuc U3Ya KLviLQS
+LAsI1Qxi0 o8e Bb  lRRa8t hkybC HYNEW MD
+iin Z9  K44 QIxX  Jcx L M1FSwnyYa r  UBOfZUG  v wBFlrNnY ckQMN kHOc1 1V g sku F JUTi
+*****
+
